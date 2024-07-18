@@ -14,10 +14,7 @@ const app: Express = express()
 export const prisma: PrismaClient = new PrismaClient()
 
 app.use(json())
-app.use(cors({
-  origin: process.env.FRONTEND_ORIGIN,
-  credentials: true
-}))
+app.use(cors())
 
 
 app.use('/account', accountRouter)
