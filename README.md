@@ -1,5 +1,5 @@
 # Emergency Contact
-#### Emergency Contact is a web and moblie app that allows doctors, nurses, and first-responders to access medical records and contact information in a matter of seconds via QR codes.
+#### Emergency Contact is a web and mobile app that allows doctors, nurses, and first-responders to access medical records and contact information in a matter of seconds via QR codes.
 
 This repository contains the backend for Emergency Contact.  
 
